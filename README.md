@@ -5,6 +5,10 @@
 # About Me🙋‍♂️
 
 # 🔧 Skills
+- **Databases**: MySQL, SQLServer, PostgreSQL
+- **Languages**: Python, Java, HTML, CSS3, JavaScript
+- **Frameworks**: React
+- **Others**: OCI, Docker
 
 # Technologies That I Know👨‍💻
 
