@@ -1,6 +1,6 @@
 # Hi 👋, I'm Fernando Asto
 
-![Banner](URL_DE_LA_IMAGEN)
+![Banner](https://github.com/FernandoAsto04/FernandoAsto04/blob/main/Banner.jpg)
 
 # About Me🙋‍♂️
 
