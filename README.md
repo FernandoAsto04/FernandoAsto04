@@ -3,7 +3,7 @@
 ![Banner](https://github.com/FernandoAsto04/FernandoAsto04/blob/main/Banner.jpg)
 
 # About Me🙋‍♂️
-
+Hello! I am a passionate developer with a great enthusiasm for learning and exploring various technological topics. I am interested in topics such as Machine Learning, Cloud Computing, IoT, cybersecurity and web development. I am fluent in languages ​​such as Python and JS, and I am always willing to learn new technologies.
 # 🔧 Skills
 - **Databases**: MySQL, SQLServer, PostgreSQL
 - **Languages**: Python, Java, HTML, CSS3, JavaScript
